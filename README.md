@@ -1,2 +1,2 @@
 # leoloeser.github.io
-hello I am Leo, I go to Western.
+Hello I am Leo, I go to Western.
